@@ -1,1 +1,1 @@
-jumpserver/jms_all:v2.1.2
+minio:latest
